@@ -1,0 +1,137 @@
+{
+  "generated_on": "2026-01-01",
+  "top3": [
+    {
+      "title": "Book dentist appointment",
+      "description": "Call dentist office",
+      "deadline": null,
+      "effort_min": 10,
+      "impact": 1,
+      "blocked": false,
+      "tags": [],
+      "score": 5.0,
+      "reason": "No deadline,Quickwin",
+      "score_breakdown": {
+        "urgency": 0.5,
+        "importance": 1.0,
+        "quickwin": 1.0,
+        "blocked_penality": 0.0,
+        "final_score": 5.0
+      }
+    },
+    {
+      "title": "work Pay Electricty Bill",
+      "description": "Online Payment",
+      "deadline": null,
+      "effort_min": 10,
+      "impact": 2,
+      "blocked": false,
+      "tags": [],
+      "score": 8.0,
+      "reason": "No deadline,Medium Impact,Quickwin",
+      "score_breakdown": {
+        "urgency": 0.5,
+        "importance": 2.0,
+        "quickwin": 1.0,
+        "blocked_penality": 0.0,
+        "final_score": 8.0
+      }
+    },
+    {
+      "title": "Send proposal to client",
+      "description": "Finalize and email proposal",
+      "deadline": null,
+      "effort_min": 25,
+      "impact": 3,
+      "blocked": false,
+      "tags": [],
+      "score": 10.0,
+      "reason": "No deadline,High Impact",
+      "score_breakdown": {
+        "urgency": 0.5,
+        "importance": 3.0,
+        "quickwin": 0.0,
+        "blocked_penality": 0.0,
+        "final_score": 10.0
+      }
+    }
+  ],
+  "next5": [],
+  "unblock": [
+    {
+      "title": "Book dentist appointment",
+      "description": "Call dentist office",
+      "deadline": null,
+      "effort_min": 10,
+      "impact": 1,
+      "blocked": false,
+      "tags": [],
+      "score": 5.0,
+      "reason": "No deadline,Quickwin",
+      "score_breakdown": {
+        "urgency": 0.5,
+        "importance": 1.0,
+        "quickwin": 1.0,
+        "blocked_penality": 0.0,
+        "final_score": 5.0
+      }
+    },
+    {
+      "title": "work Pay Electricty Bill",
+      "description": "Online Payment",
+      "deadline": null,
+      "effort_min": 10,
+      "impact": 2,
+      "blocked": false,
+      "tags": [],
+      "score": 8.0,
+      "reason": "No deadline,Medium Impact,Quickwin",
+      "score_breakdown": {
+        "urgency": 0.5,
+        "importance": 2.0,
+        "quickwin": 1.0,
+        "blocked_penality": 0.0,
+        "final_score": 8.0
+      }
+    },
+    {
+      "title": "Send proposal to client",
+      "description": "Finalize and email proposal",
+      "deadline": null,
+      "effort_min": 25,
+      "impact": 3,
+      "blocked": false,
+      "tags": [],
+      "score": 10.0,
+      "reason": "No deadline,High Impact",
+      "score_breakdown": {
+        "urgency": 0.5,
+        "importance": 3.0,
+        "quickwin": 0.0,
+        "blocked_penality": 0.0,
+        "final_score": 10.0
+      }
+    }
+  ],
+  "defer": [],
+  "assumptions": {
+    "effort_defaults_min": {
+      "S": 15,
+      "M": 45,
+      "L": 90
+    },
+    "impact_map": {
+      "low": 1,
+      "medium": 2,
+      "high": 3
+    },
+    "weights": {
+      "urgency": 2.0,
+      "importance": 3.0,
+      "quickwin_bonus": 1.0,
+      "blocked_penality": 5.0
+    },
+    "top3_count": 3,
+    "next5_count": 5
+  }
+}
