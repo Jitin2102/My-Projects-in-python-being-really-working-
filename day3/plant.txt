@@ -1,0 +1,28 @@
+Daily Task Prioritization Plan (2026-01-01)
+=============================================
+
+ TOP 3 (Do these first)
+-----------------------
+1.Book dentist appointment | deadline:none | effort :10m | score : 5.0
+ Why :No deadline,Quickwin
+2.work Pay Electricty Bill | deadline:none | effort :10m | score : 8.0
+ Why :No deadline,Medium Impact,Quickwin
+3.Send proposal to client | deadline:none | effort :25m | score : 10.0
+ Why :No deadline,High Impact
+
+NEXT 5
+------
+(none)
+
+UNBLOCK(Blocked Tasks)
+----------------------
+1.Book dentist appointment | deadline:none | effort :10m | score : 5.0
+ Why :No deadline,Quickwin
+2.work Pay Electricty Bill | deadline:none | effort :10m | score : 8.0
+ Why :No deadline,Medium Impact,Quickwin
+3.Send proposal to client | deadline:none | effort :25m | score : 10.0
+ Why :No deadline,High Impact
+
+DEFER (Low urgency / impact)
+----------------------------
+(none)
