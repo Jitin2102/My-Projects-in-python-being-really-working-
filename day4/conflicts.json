@@ -1,0 +1,9 @@
+[
+  {
+    "event_a": "Team Sync",
+    "event_b": "Client Call",
+    "type": "overlap",
+    "severity": "high",
+    "suggestion": "Requires human decision"
+  }
+]

@@ -1,0 +1,19 @@
+Meeting Agenda (2026-01-04)
+=============================================
+
+Title:Team Sync
+Objective: Align team on current projects, address blockers, and plan immediate next steps.
+Duration :60 minutes
+
+1. Project Updates (25 min)
+  Owner :Team Leads
+  Outcome :Clear understanding of current project statuses.
+
+2. Blockers and Issues (20 min)
+  Owner :All Team Members
+  Outcome :Identify and assign owners to resolve blockers.
+
+3. Next Steps and Action Items (15 min)
+  Owner :Team Lead
+  Outcome :Agree on immediate next steps and responsibilities.
+

@@ -1,0 +1,24 @@
+{
+  "meeting_title": "Team Sync",
+  "objective": "Align team on current projects, address blockers, and plan immediate next steps.",
+  "agenda": [
+    {
+      "topic": "Project Updates",
+      "time_minutes": 25,
+      "owner": "Team Leads",
+      "outcome": "Clear understanding of current project statuses."
+    },
+    {
+      "topic": "Blockers and Issues",
+      "time_minutes": 20,
+      "owner": "All Team Members",
+      "outcome": "Identify and assign owners to resolve blockers."
+    },
+    {
+      "topic": "Next Steps and Action Items",
+      "time_minutes": 15,
+      "owner": "Team Lead",
+      "outcome": "Agree on immediate next steps and responsibilities."
+    }
+  ]
+}

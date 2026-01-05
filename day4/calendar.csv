@@ -1,0 +1,7 @@
+title,start_time,end_time,priority,type,flexible
+Team Sync,2026-01-05 09:00,2026-01-05 10:00,high,meeting,no
+Client Call,2026-01-05 09:20,2026-01-05 10:20,high,meeting,no
+Code Review,2026-01-05 10:30,2026-01-05 11:00,medium,meeting,yes
+Deep Work Block,2026-01-05 11:00,2026-01-05 13:00,high,focus,no
+Lunch,2026-01-05 12:30,2026-01-05 13:00,low,personal,yes
+Weekly Planning ,2026-01-05 13:00,2026-01-05 14:00,medium,meeting ,yes
