@@ -1,0 +1,15 @@
+Smart Reminder Schedule
+========================================
+
+2026-01-12 → Reminder: 'Submit tax documents' is due on 2026-01-15.
+2026-01-14 → Reminder: 'Submit tax documents' is due on 2026-01-15.
+2026-01-15 → Reminder: 'Submit tax documents' is due on 2026-01-15.
+2026-01-18 → Reminder: 'Prepare quarterly report' is due on 2026-01-25.
+2026-01-22 → Reminder: 'Prepare quarterly report' is due on 2026-01-25.
+2026-01-24 → Reminder: 'Prepare quarterly report' is due on 2026-01-25.
+2026-01-25 → Reminder: 'Prepare quarterly report' is due on 2026-01-25.
+2026-01-27 → Reminder: 'Book car service' is due on 2026-01-30.
+2026-01-29 → Reminder: 'Book car service' is due on 2026-01-30.
+2026-02-19 → Reminder: 'Follow up with vendor' is due on 2026-02-22.
+2026-02-21 → Reminder: 'Follow up with vendor' is due on 2026-02-22.
+2026-02-27 → Reminder: 'Buy birthday gift' is due on 2026-02-28.
