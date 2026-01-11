@@ -1,0 +1,21 @@
+Extracted Action Items (2026-01-11)
+=============================================
+
+1. Finalize the onboarding checklist
+   Owner: Unassigned
+   Deadline: Next Friday
+   Priority: High
+   Source: We agreed to finalize the onboarding checklist by next Friday.
+
+2. Follow up with the vendor about pricing
+   Owner: Unassigned
+   Deadline: Not specified
+   Priority: Medium
+   Source: Someone should follow up with the vendor about pricing.
+
+3. Prepare a launch email
+   Owner: Marketing
+   Deadline: Not specified
+   Priority: High
+   Source: Marketing needs to prepare a launch email.
+

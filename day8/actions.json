@@ -1,0 +1,25 @@
+{
+  "actions": [
+    {
+      "action": "Finalize the onboarding checklist",
+      "owner": "Unassigned",
+      "deadline": "Next Friday",
+      "priority": "High",
+      "source_context": "We agreed to finalize the onboarding checklist by next Friday."
+    },
+    {
+      "action": "Follow up with the vendor about pricing",
+      "owner": "Unassigned",
+      "deadline": "Not specified",
+      "priority": "Medium",
+      "source_context": "Someone should follow up with the vendor about pricing."
+    },
+    {
+      "action": "Prepare a launch email",
+      "owner": "Marketing",
+      "deadline": "Not specified",
+      "priority": "High",
+      "source_context": "Marketing needs to prepare a launch email."
+    }
+  ]
+}
