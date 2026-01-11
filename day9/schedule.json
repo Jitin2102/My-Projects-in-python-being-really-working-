@@ -1,0 +1,35 @@
+{
+  "schedule": [
+    {
+      "task": "Write project proposal",
+      "start": "09:00",
+      "end": "10:30"
+    },
+    {
+      "task": "Team meeting",
+      "start": "10:40",
+      "end": "11:40"
+    },
+    {
+      "task": "Review pull requests",
+      "start": "11:50",
+      "end": "12:35"
+    },
+    {
+      "task": "Email follow-ups",
+      "start": "12:45",
+      "end": "13:15"
+    },
+    {
+      "task": "Learning session",
+      "start": "13:25",
+      "end": "14:10"
+    },
+    {
+      "task": "Admin cleanup",
+      "start": "14:20",
+      "end": "14:50"
+    }
+  ],
+  "overflow": []
+}
