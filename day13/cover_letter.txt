@@ -1,0 +1,9 @@
+Cover Letter — Senior Software Engineer at 
+Date: January 19, 2026
+==================================================
+
+I am writing to express my interest in the Senior Software Engineer position. With experience working on backend systems for customer platforms, I have developed strong skills in improving system performance and collaborating effectively with cross-functional teams. My proficiency in Python, APIs, SQL, and cloud technologies aligns well with the requirements of this role.
+
+In my previous role, I focused on enhancing system reliability and scalability, which directly supports the responsibilities outlined for this position. I am confident that my background in backend development and cloud infrastructure will enable me to contribute effectively to your team.
+
+I am excited about the opportunity to bring my expertise in designing scalable backend services and improving system performance to your organization. Thank you for considering my application.
