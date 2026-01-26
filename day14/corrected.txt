@@ -1,0 +1,4 @@
+Corrected Text (2026-01-26)
+=============================================
+
+This agent helps users fix grammar mistakes. It doesn't change the meaning but improves clarity. Writing looks more professional after correction.
