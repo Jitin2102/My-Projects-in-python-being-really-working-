@@ -1,6 +1,6 @@
-# 🧑‍💻 100 Days for 100 Agents
+# 🧑‍💻 19 Days for 19 Agents
 
-Welcome to **100 Days for 100 Agents** — a challenge to build **100 practical Python agents in 100 days**.  
+Welcome to **19 Days for 100 Agents** — a challenge to build **19 practical Python agents in 19 days**.  
 Each agent is designed to solve real-world productivity problems and demonstrate automation, AI, and workflow orchestration in action.
 
 ---
