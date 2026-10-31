@@ -21,7 +21,7 @@ Each agent is designed to solve real-world productivity problems and demonstrate
 | 2   | Email Summarization Agent | Summarizes long emails into concise bullet points. |
 | 3   | Calendar Conflict Resolver Agent | Detects and resolves scheduling conflicts in calendars. |
 | 4   | Meeting Agenda Generator Agent | Generates structured agendas from meeting topics. |
-| …   | … | … continuing up to Day 100 |
+| …   | … | … continuing up to Day 19 |
 
 ---
 
